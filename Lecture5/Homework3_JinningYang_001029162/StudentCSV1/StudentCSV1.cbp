@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="StudentCSV1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/StudentCSV1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/StudentCSV1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="abstractFactory.cpp" />
+		<Unit filename="abstractFactory.h" />
+		<Unit filename="abstractSchool.cpp" />
+		<Unit filename="abstractSchool.h" />
+		<Unit filename="fileUtil.cpp" />
+		<Unit filename="fileUtil.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="person.cpp" />
+		<Unit filename="person.h" />
+		<Unit filename="school.cpp" />
+		<Unit filename="school.h" />
+		<Unit filename="student.cpp" />
+		<Unit filename="student.h" />
+		<Unit filename="studentFactory.cpp" />
+		<Unit filename="studentFactory.h" />
+		<Unit filename="teacher.cpp" />
+		<Unit filename="teacher.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

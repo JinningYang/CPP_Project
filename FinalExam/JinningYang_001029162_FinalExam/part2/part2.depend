@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1607741393 source:c:\users\kathe\onedrive\documents\c++\finalexam\jinningyang_001029162_finalexam\part2\part2.cpp
+	<algorithm>
+	<cstring>
+	<ctime>
+	<functional>
+	<iostream>
+	<memory>
+	<sstream>
+	<string>
+	<vector>
+

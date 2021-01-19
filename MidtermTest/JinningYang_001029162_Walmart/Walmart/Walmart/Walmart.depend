@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1605484391 source:c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\main.cpp
+	<iostream>
+	"Walmart.hpp"
+
+1605484795 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\walmart.hpp
+	"AbstractItemAPI.h"
+	"AbstractPersonAPI.h"
+	"AbstractStoreAPI.h"
+	"ItemFactory.hpp"
+	"PersonFactory.hpp"
+	"Store.hpp"
+	<cstring>
+
+1605481721 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\abstractitemapi.h
+	<functional>
+	<string>
+
+1605483294 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\abstractpersonapi.h
+	<string>
+
+1605483296 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\abstractstoreapi.h
+	"AbstractItemAPI.h"
+	"AbstractPersonAPI.h"
+	<string>
+
+1605484476 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\itemfactory.hpp
+	"Bread.hpp"
+	"Electronics.hpp"
+	"Item.hpp"
+	"LightBread.hpp"
+	<string>
+
+1605484098 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\bread.hpp
+	"Item.hpp"
+	<string>
+
+1605483269 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\item.hpp
+	"AbstractItemAPI.h"
+	<string>
+
+1605484362 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\electronics.hpp
+	"Item.hpp"
+
+1605484362 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\lightbread.hpp
+	"Bread.hpp"
+
+1605483265 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\person.hpp
+	"AbstractPersonAPI.h"
+	<string>
+
+1605483271 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\store.hpp
+	"AbstractItemAPI.h"
+	"AbstractPersonAPI.h"
+	"AbstractStoreAPI.h"
+	<algorithm>
+	<iostream>
+	<vector>
+
+1605484726 c:\users\kathe\onedrive\documents\c++\jinningyang_001029162_walmart\walmart\walmart\personfactory.hpp
+	"Person.hpp"
+

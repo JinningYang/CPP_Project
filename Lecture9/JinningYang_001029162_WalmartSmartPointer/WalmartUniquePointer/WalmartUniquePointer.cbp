@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="WalmartUniquePointer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/WalmartUniquePointer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Wnon-virtual-dtor" />
+					<Add option="-Wshadow" />
+					<Add option="-Winit-self" />
+					<Add option="-Wredundant-decls" />
+					<Add option="-Wcast-align" />
+					<Add option="-Wundef" />
+					<Add option="-Wfloat-equal" />
+					<Add option="-Winline" />
+					<Add option="-Wunreachable-code" />
+					<Add option="-Wmissing-declarations" />
+					<Add option="-Wmissing-include-dirs" />
+					<Add option="-Wswitch-enum" />
+					<Add option="-Wswitch-default" />
+					<Add option="-Wzero-as-null-pointer-constant" />
+					<Add option="-Wmain" />
+					<Add option="-pedantic" />
+					<Add option="-Wall" />
+					<Add option="-std=c++17" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/WalmartUniquePointer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AbstractItemAPI.cpp" />
+		<Unit filename="AbstractItemAPI.h" />
+		<Unit filename="AbstractItemFactoryAPI.cpp" />
+		<Unit filename="AbstractItemFactoryAPI.h" />
+		<Unit filename="AbstractPersonAPI.cpp" />
+		<Unit filename="AbstractPersonAPI.h" />
+		<Unit filename="AbstractPersonFactoryAPI.cpp" />
+		<Unit filename="AbstractPersonFactoryAPI.h" />
+		<Unit filename="AbstractStoreAPI.cpp" />
+		<Unit filename="AbstractStoreAPI.h" />
+		<Unit filename="Item.hpp" />
+		<Unit filename="ItemFactory.hpp" />
+		<Unit filename="Person.hpp" />
+		<Unit filename="PersonFactory.hpp" />
+		<Unit filename="Store.hpp" />
+		<Unit filename="Walmart.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

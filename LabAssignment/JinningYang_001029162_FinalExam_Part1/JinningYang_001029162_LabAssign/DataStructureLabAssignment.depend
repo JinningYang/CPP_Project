@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1607478823 source:c:\users\kathe\onedrive\documents\c++\finalexam\jinningyang_001029162_finalexam_part1\datastructurelabassignment\main.cpp
+	<iostream>
+	"queue.hpp"
+	"stack.hpp"
+	"stacktemplate.hpp"
+	"queuetemplate.hpp"
+
+1607474163 c:\users\kathe\onedrive\documents\c++\finalexam\jinningyang_001029162_finalexam_part1\datastructurelabassignment\queue.hpp
+	<iostream>
+	<cstdlib>
+
+1607474142 c:\users\kathe\onedrive\documents\c++\finalexam\jinningyang_001029162_finalexam_part1\datastructurelabassignment\stack.hpp
+	<iostream>
+	<cstdlib>
+
+1607476484 c:\users\kathe\onedrive\documents\c++\finalexam\jinningyang_001029162_finalexam_part1\datastructurelabassignment\stacktemplate.hpp
+	<iostream>
+	<cstdlib>
+
+1607479008 c:\users\kathe\onedrive\documents\c++\finalexam\jinningyang_001029162_finalexam_part1\datastructurelabassignment\queuetemplate.hpp
+	<iostream>
+	<cstdlib>
+

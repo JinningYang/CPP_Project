@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1606103192 source:c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\main.cpp
+	<iostream>
+	"Walmart.hpp"
+
+1606104571 source:c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractitemapi.cpp
+	"AbstractItemAPI.h"
+
+1606104530 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractitemapi.h
+	<string>
+	<memory>
+
+1606102123 source:c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractstoreapi.cpp
+	"AbstractStoreAPI.h"
+
+1606104137 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractstoreapi.h
+	<string>
+	"AbstractItemAPI.h"
+	"AbstractPersonAPI.h"
+	<memory>
+
+1606104299 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractpersonapi.h
+	<string>
+	<memory>
+
+1606104382 source:c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractpersonapi.cpp
+	"AbstractPersonAPI.h"
+
+1606103688 source:c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractitemfactoryapi.cpp
+	"AbstractItemFactoryAPI.h"
+	"Item.hpp"
+	<memory>
+
+1606103790 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractitemfactoryapi.h
+	<string>
+	<memory>
+	"AbstractItemAPI.h"
+
+1606102954 source:c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractpersonfactoryapi.cpp
+	"AbstractPersonFactoryAPI.h"
+
+1606103929 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\abstractpersonfactoryapi.h
+	<string>
+	<memory>
+	"AbstractPersonAPI.h"
+
+1606103163 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\walmart.hpp
+	"AbstractItemAPI.h"
+	"AbstractPersonAPI.h"
+	"AbstractStoreAPI.h"
+	"ItemFactory.hpp"
+	"PersonFactory.hpp"
+	"Store.hpp"
+	<cstring>
+
+1606103973 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\itemfactory.hpp
+	"AbstractItemFactoryAPI.h"
+	"Item.hpp"
+	<string>
+
+1606102688 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\item.hpp
+	"AbstractItemAPI.h"
+	<string>
+
+1606103985 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\personfactory.hpp
+	"AbstractPersonFactoryAPI.h"
+	"Person.hpp"
+
+1606102739 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\person.hpp
+	"AbstractPersonAPI.h"
+	<string>
+
+1606104092 c:\users\kathe\onedrive\documents\c++\lecture9\jinningyang_001029162_walmartsmartpointer\walmartsharedpointer\store.hpp
+	"AbstractItemAPI.h"
+	"AbstractPersonAPI.h"
+	"AbstractStoreAPI.h"
+	<algorithm>
+	<iostream>
+	<vector>
+

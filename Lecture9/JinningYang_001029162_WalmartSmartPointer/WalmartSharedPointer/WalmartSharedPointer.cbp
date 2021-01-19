@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="WalmartSharedPointer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/WalmartSharedPointer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/WalmartSharedPointer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AbstractItemAPI.cpp" />
+		<Unit filename="AbstractItemAPI.h" />
+		<Unit filename="AbstractItemFactoryAPI.cpp" />
+		<Unit filename="AbstractItemFactoryAPI.h" />
+		<Unit filename="AbstractPersonAPI.cpp" />
+		<Unit filename="AbstractPersonAPI.h" />
+		<Unit filename="AbstractPersonFactoryAPI.cpp" />
+		<Unit filename="AbstractPersonFactoryAPI.h" />
+		<Unit filename="AbstractStoreAPI.cpp" />
+		<Unit filename="AbstractStoreAPI.h" />
+		<Unit filename="Item.hpp" />
+		<Unit filename="ItemFactory.hpp" />
+		<Unit filename="Person.hpp" />
+		<Unit filename="PersonFactory.hpp" />
+		<Unit filename="Store.hpp" />
+		<Unit filename="Walmart.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

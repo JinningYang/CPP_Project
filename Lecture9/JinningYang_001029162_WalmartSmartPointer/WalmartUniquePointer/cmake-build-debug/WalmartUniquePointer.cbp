@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="WalmartUniquePointer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WalmartUniquePointer">
+				<Option output="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/cmake-build-debug/WalmartUniquePointer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/."/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 WalmartUniquePointer"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WalmartUniquePointer/fast">
+				<Option output="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/cmake-build-debug/WalmartUniquePointer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/."/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 WalmartUniquePointer/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kathe\OneDrive\Documents\C++\Lecture9\JinningYang_001029162_WalmartSmartPointer\WalmartUniquePointer\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractItemAPI.cpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractItemAPI.h">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractItemFactoryAPI.cpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractItemFactoryAPI.h">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractPersonAPI.cpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractPersonAPI.h">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractPersonFactoryAPI.cpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractPersonFactoryAPI.h">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractStoreAPI.cpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/AbstractStoreAPI.h">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/Item.hpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/ItemFactory.hpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/Person.hpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/PersonFactory.hpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/Store.hpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/Walmart.hpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/main.cpp">
+			<Option target="WalmartUniquePointer"/>
+		</Unit>
+		<Unit filename="C:/Users/kathe/OneDrive/Documents/C++/Lecture9/JinningYang_001029162_WalmartSmartPointer/WalmartUniquePointer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

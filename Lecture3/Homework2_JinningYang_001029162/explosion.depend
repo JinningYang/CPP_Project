@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1601863753 source:c:\users\kathe\onedrive\documents\c++\lecture3\explosion\main.cpp
+	<iostream>
+	"explosion.h"
+	"explosionModel.h"
+
+1601865531 source:c:\users\kathe\onedrive\documents\c++\lecture3\explosion\explosion.cpp
+	"explosion.h"
+	"vector"
+
+1601864497 c:\users\kathe\onedrive\documents\c++\lecture3\explosion\explosion.h
+	<iostream>
+	<string>
+
+1601865775 source:c:\users\kathe\onedrive\documents\c++\lecture3\explosion\gunshot.cpp
+	"gunshot.h"
+
+1601865721 c:\users\kathe\onedrive\documents\c++\lecture3\explosion\gunshot.h
+	"explosion.h"
+	<string>
+
+1601865670 source:c:\users\kathe\onedrive\documents\c++\lecture3\explosion\mine.cpp
+	"mine.h"
+
+1601865601 c:\users\kathe\onedrive\documents\c++\lecture3\explosion\mine.h
+	"explosion.h"
+	<string>
+
+1601865402 source:c:\users\kathe\onedrive\documents\c++\lecture3\explosion\grenade.cpp
+	"grenade.h"
+
+1601865494 c:\users\kathe\onedrive\documents\c++\lecture3\explosion\grenade.h
+	"explosion.h"
+	<string>
+
+1601864891 source:c:\users\kathe\onedrive\documents\c++\lecture3\explosion\explosionmodel.cpp
+	"explosionModel.h"
+	"grenade.h"
+	"mine.h"
+	"gunshot.h"
+	"vector"
+
+1601862404 c:\users\kathe\onedrive\documents\c++\lecture3\explosion\explosionmodel.h
+	<iostream>
+	<string>
+	<vector>
+	"grenade.h"
+	"mine.h"
+	"gunshot.h"
+

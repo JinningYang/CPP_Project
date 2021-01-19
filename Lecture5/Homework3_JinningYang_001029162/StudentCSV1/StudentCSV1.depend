@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1603149236 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\main.cpp
+	<iostream>
+	"school.h"
+	"studentFactory.h"
+
+1603075397 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\person.cpp
+	"person.h"
+
+1603075311 c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\person.h
+	<string>
+	<iostream>
+
+1603240710 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\student.cpp
+	"student.h"
+	<cassert>
+
+1603149773 c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\student.h
+	"person.h"
+	<utility>
+	<vector>
+
+1603127704 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\abstractschool.cpp
+	"abstractSchool.h"
+
+1603132610 c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\abstractschool.h
+	<iostream>
+	<string>
+	<vector>
+	"person.h"
+	"student.h"
+	"teacher.h"
+
+1603149178 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\school.cpp
+	"school.h"
+	"teacher.h"
+	"fileUtil.h"
+	"student.h"
+
+1603134671 c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\school.h
+	"abstractSchool.h"
+
+1603129168 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\abstractfactory.cpp
+	"abstractFactory.h"
+
+1603130717 c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\abstractfactory.h
+	"school.h"
+
+1603130665 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\studentfactory.cpp
+	"studentFactory.h"
+	"school.h"
+
+1603130607 c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\studentfactory.h
+	"abstractFactory.h"
+
+1603131473 c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\teacher.h
+	"person.h"
+
+1603131463 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\teacher.cpp
+	"teacher.h"
+
+1603149792 source:c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\fileutil.cpp
+	"fileUtil.h"
+	<string>
+	<cassert>
+
+1603149250 c:\users\kathe\onedrive\documents\c++\lecture5\homework3_jinningyang_001029162\studentcsv1\fileutil.h
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	<utility>
+	<string>
+

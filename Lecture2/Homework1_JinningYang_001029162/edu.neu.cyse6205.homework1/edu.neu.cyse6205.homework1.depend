@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1601310725 source:c:\users\kathe\onedrive\documents\c++\lecture2\homework1_jinningyang_001029162\edu.neu.cyse6205.homework1\calc.cpp
+	"calc.h"
+
+1601309908 c:\users\kathe\onedrive\documents\c++\lecture2\homework1_jinningyang_001029162\edu.neu.cyse6205.homework1\calc.h
+	<iostream>
+	<string>
+
+1601314042 source:c:\users\kathe\onedrive\documents\c++\lecture2\homework1_jinningyang_001029162\edu.neu.cyse6205.homework1\main.cpp
+	<iostream>
+	"calc.h"
+	"calcInt.h"
+	"calcDoub.h"
+
+1601313281 c:\users\kathe\onedrive\documents\c++\lecture2\homework1_jinningyang_001029162\edu.neu.cyse6205.homework1\calcint.h
+	<iostream>
+	<string>
+	"calc.h"
+
+1601313497 c:\users\kathe\onedrive\documents\c++\lecture2\homework1_jinningyang_001029162\edu.neu.cyse6205.homework1\calcdoub.h
+	"calc.h"
+	<string>
+
+1601313626 source:c:\users\kathe\onedrive\documents\c++\lecture2\homework1_jinningyang_001029162\edu.neu.cyse6205.homework1\calcdoub.cpp
+	"calcDoub.h"
+
+1601313295 source:c:\users\kathe\onedrive\documents\c++\lecture2\homework1_jinningyang_001029162\edu.neu.cyse6205.homework1\calcint.cpp
+	"calcInt.h"
+
